@@ -1,0 +1,12 @@
+# LICENCE
+
+Tous droits réservés © 2025.
+
+Ce projet est protégé par le droit d’auteur. Toute reproduction, distribution, modification, ou utilisation non autorisée de tout ou partie du projet est strictement interdite, sauf autorisation écrite préalable des auteurs.
+
+Ce projet a été réalisé dans le cadre d’un projet scolaire et n’est pas destiné à un usage commercial sans consentement.
+
+## Auteurs
+- Aziz THIOMBIANO
+- Aslane OUEDRAOGO
+- Sandrine OUEDRAOGO
